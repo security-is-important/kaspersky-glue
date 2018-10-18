@@ -6,5 +6,5 @@ I've glued Kaspersky's troubleshooting tools together into one PowerShell script
 ## Dependencies
 - Kaskersky's GetSystemInfo tool
 - Kaspersky's Update Utility
-- Kaspersky Endpoint Secuirty 10, 10.1 & 11 setup exectuables
+- Kaspersky Endpoint Security 10, 10.1 & 11 setup executables
 - psexec.exe in $PATH
